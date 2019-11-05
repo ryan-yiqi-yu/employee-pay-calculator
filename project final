@@ -1,4 +1,4 @@
-#project 2
+
 #ryan yu
 """This program allows multiple employees to enter their respective hours worked and hourly rate to return their pay,
 and will sum up total pay of all the employees and the average pay between the employees"""
